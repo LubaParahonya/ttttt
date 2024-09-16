@@ -1,0 +1,17 @@
+[
+  {
+    "price": 1000,
+    "id": 1,
+    "title": "Увлажняет и питает кожу тела, тонизирует, придает упругость и эластичность",
+    "url": "https://static.insales-cdn.com/images/products/1/1637/773105253/R8Fuv_KCDVM.jpg",
+    "catecories": "Кремы и лосьоны для тела"
+  },
+  {
+    "price": 1999,
+    "id": 2,
+    "title": "Лосьон для тела Termaly увлажняет и питает, восстанавливает гидро-липидную мантию кожи",
+    "url": "https://static.insales-cdn.com/images/products/1/1731/644073155/DSC04885_-2.jpg",
+    "catecories": "Кремы и лосьоны для тела"
+  }
+  
+]
